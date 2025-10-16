@@ -1,0 +1,8 @@
+name: zizmor-recursive-tags
+description: zizmor-recursive-tags
+
+runs:
+  using: composite
+  steps:
+    - run: echo hello
+      shell: bash
